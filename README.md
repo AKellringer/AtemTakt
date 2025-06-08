@@ -8,3 +8,5 @@ Wenn es einfach sein soll, könnte man eine Platine mit 3 LEDs machen, die anzei
 Es soll aber analog sein, damit man sich verbundenen fühlt.
 
 https://www.barmer.de/gesundheit-verstehen/psyche/psychische-gesundheit/richtig-atmen-1055858
+
+https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf
