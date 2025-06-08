@@ -10,3 +10,4 @@ Es soll aber analog sein, damit man sich verbundenen fühlt.
 https://www.barmer.de/gesundheit-verstehen/psyche/psychische-gesundheit/richtig-atmen-1055858
 
 https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf
+https://www.elektronik-kompendium.de/sites/raspberry-pi/2611051.htm
